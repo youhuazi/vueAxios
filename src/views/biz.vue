@@ -1,5 +1,5 @@
 <template>
-    
+    <div>bizbiz</div>
 </template>
 
 <script>
